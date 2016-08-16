@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: media-item-url\n"
+"POT-Creation-Date: 2014-02-13 09:57-0500\n"
+"PO-Revision-Date: 2014-02-13 09:57-0500\n"
+"Last-Translator: Andrew Norcross <andrew@andrewnorcross.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: media-item-url.php:111
+msgid "View Image URL"
+msgstr "View Image URL"
+
+#: media-item-url.php:119
+msgid "View Video URL"
+msgstr "View Video URL"
+
+#: media-item-url.php:124
+msgid "View Data File URL"
+msgstr "View Data File URL"
+
+#: media-item-url.php:129
+msgid "View Spreadsheet URL"
+msgstr "View Spreadsheet URL"
+
+#: media-item-url.php:136
+msgid "View Document URL"
+msgstr "View Document URL"
+
+#: media-item-url.php:140
+msgid "View HTML file URL"
+msgstr "View HTML file URL"
+
+#: media-item-url.php:144
+msgid "View Item URL"
+msgstr "View Item URL"
